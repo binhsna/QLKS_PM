@@ -12,7 +12,6 @@
     + Java Swing
     + NeatBeans IDE, SQL Server
 
-<<<<<<< HEAD
 **2. Cài đặt** 
 - Cài jdk 11, NeatBeans IDE, SQL Server
 - Cài đặt cơ sở dữ liệu với file **.sql** trong folder **/database**
