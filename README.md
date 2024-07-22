@@ -12,6 +12,7 @@
     + Java Swing
     + NeatBeans IDE, SQL Server
 
+<<<<<<< HEAD
 **2. Cài đặt** 
 - Cài jdk 11, NeatBeans IDE, SQL Server
 - Cài đặt cơ sở dữ liệu với file **.sql** trong folder **/database**
@@ -64,3 +65,8 @@
 ![UI-Report](img/report.png)
 
 <h4 align="center">...</h4>
+=======
+- Cài jdk 11
+
+- SQL Server
+>>>>>>> 238c025ecf0077cf185e8b3b256dad95e442c1dd
